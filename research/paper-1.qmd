@@ -1,11 +1,11 @@
 ---
-title: "My First Paper"
+title: "Does Media Coverage of Violence Affect Public Trust? Evidence from Violence against Doctors in China"
 author: 
-  - Simone
-  - Matthew DeHaven
-date: "January 01, 2024"
+  - Jiayi Liu
+date: "May 4, 2023"
 ---
 
-A description of my paper.
+This is my senior thesis. I identified the effect of violent anti-doctor incidents on individuals’ trust in doctors by a staggered
+Difference-in-Differences strategy and analyzed heterogeneity by self-reported reliance on the Internet to
+retrieve information. I also examined the dynamic effects by an event-study design.
 
-Could include a photo, or links, or anything at all!

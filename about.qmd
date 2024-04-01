@@ -1,5 +1,5 @@
 ---
-title: "Simone"
+title: "Jiayi Liu"
 about:
   template: trestles
   image: profile.jpg
@@ -18,12 +18,16 @@ about:
       href: https://scholar.google.com
 ---
 
-A longer paragraph about me and my interests and anything else I like to do.
+My primary research interest is applied microeconomics, with a focus on topics in violence, healthcare, and media.
 
 ## Education
 
-Where I studied
+Ph.D. student in Economics, 2023 - 
+
+B.A. in Economics (with a minor in Business Data Science), Shanghai Jiao Tong University, 2023
+
+Exchange Student, Johns Hopkins University, 2022
 
 ## Experience
 
-What I've done
+Research Assistant (for Professor Daniel Polsky), Johns Hopkins University, Bloomberg School of Public Health, Jun. 2022 - Sep. 2022

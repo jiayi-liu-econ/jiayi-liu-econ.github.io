@@ -1,5 +1,5 @@
 ---
-title: "Simone"
+title: "Jiayi Liu"
 about:
   template: jolla
   image: profile.jpg
@@ -18,8 +18,8 @@ about:
       href: https://scholar.google.com
 ---
 
-I am a Ph.D. student in upside-down studies at Sunspot University.
+Hi! I am a Ph.D. student in Economics at Brown University.
 
-Most of my current research is driven by trying to find an answer to the age-old question of “How cute am I?"
+My primary research interest is applied microeconomics, with a focus on topics in violence, healthcare, and media. My research is very topic-driven.
 
 Please feel free to get in touch!
