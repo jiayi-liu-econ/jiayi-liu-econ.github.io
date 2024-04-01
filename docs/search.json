@@ -1,51 +1,51 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Simone",
+    "objectID": "research/project-1.html",
+    "href": "research/project-1.html",
+    "title": "Work in Progress",
     "section": "",
-    "text": "A longer paragraph about me and my interests and anything else I like to do."
-  },
-  {
-    "objectID": "about.html#education",
-    "href": "about.html#education",
-    "title": "Simone",
-    "section": "Education",
-    "text": "Education\nWhere I studied"
-  },
-  {
-    "objectID": "about.html#experience",
-    "href": "about.html#experience",
-    "title": "Simone",
-    "section": "Experience",
-    "text": "Experience\nWhat I’ve done"
-  },
-  {
-    "objectID": "research/paper-1.html",
-    "href": "research/paper-1.html",
-    "title": "My First Paper",
-    "section": "",
-    "text": "A description of my paper.\nCould include a photo, or links, or anything at all!"
+    "text": "I plan to work on a project about social media in China this summer."
   },
   {
     "objectID": "research/index.html",
     "href": "research/index.html",
     "title": "Research",
     "section": "",
-    "text": "All of my research projects.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMy First Paper\n\n\n\n\n\n\n\n\n\n\n\nJan 1, 2024\n\n\nSimone\n\n\n\n\n\n\n\n\n\n\n\n\nMy First Project\n\n\n\n\n\n\n\n\n\n\n\nFeb 28, 2024\n\n\nSimone\n\n\n\n\n\n\nNo matching items"
+    "text": "To be updated…\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDoes Media Coverage of Violence Affect Public Trust? Evidence from Violence against Doctors in China\n\n\n\n\n\n\n\n\n\n\n\nMay 4, 2023\n\n\nJiayi Liu\n\n\n\n\n\n\n\n\n\n\n\n\nWork in Progress\n\n\n\n\n\n\n\n\n\n\n\nSep 9, 2022\n\n\nJiayi Liu\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "research/project-1.html",
-    "href": "research/project-1.html",
-    "title": "My First Project",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Jiayi Liu",
     "section": "",
-    "text": "A description of my project.\nCould include a photo, or links, or anything at all!"
+    "text": "My primary research interest is applied microeconomics, with a focus on topics in violence, healthcare, and media."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "Jiayi Liu",
+    "section": "Education",
+    "text": "Education\nPh.D. student in Economics, 2023 -\nB.A. in Economics (with a minor in Business Data Science), Shanghai Jiao Tong University, 2023\nExchange Student, Johns Hopkins University, 2022"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "Jiayi Liu",
+    "section": "Experience",
+    "text": "Experience\nResearch Assistant (for Professor Daniel Polsky), Johns Hopkins University, Bloomberg School of Public Health, Jun. 2022 - Sep. 2022"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Simone",
+    "title": "Jiayi Liu",
     "section": "",
-    "text": "I am a Ph.D. student in upside-down studies at Sunspot University.\nMost of my current research is driven by trying to find an answer to the age-old question of “How cute am I?”\nPlease feel free to get in touch!"
+    "text": "Hi! I am a Ph.D. student in Economics at Brown University.\nMy primary research interest is applied microeconomics, with a focus on topics in violence, healthcare, and media. My research is very topic-driven.\nPlease feel free to get in touch!"
+  },
+  {
+    "objectID": "research/paper-1.html",
+    "href": "research/paper-1.html",
+    "title": "Does Media Coverage of Violence Affect Public Trust? Evidence from Violence against Doctors in China",
+    "section": "",
+    "text": "This is my senior thesis. I identified the effect of violent anti-doctor incidents on individuals’ trust in doctors by a staggered Difference-in-Differences strategy and analyzed heterogeneity by self-reported reliance on the Internet to retrieve information. I also examined the dynamic effects by an event-study design."
   }
 ]
