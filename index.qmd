@@ -4,18 +4,18 @@ about:
   template: jolla
   image: profile.jpg
   links:
-    - icon: twitter
-      text: twitter
-      href: https://twitter.com
+    # - icon: twitter
+    #   text: twitter
+    #   href: https://twitter.com
     - icon: github
       text: Github
-      href: https://github.com
-    - icon: linkedin
-      text: LinkedIn
-      href: https://linkedin.com
-    - icon: google
-      text: Google Scholar
-      href: https://scholar.google.com
+      href: https://github.com/jiayi-liu-econ
+    - icon: email
+      text: Email
+      href: mailto:jiayi_liu@brown.edu
+    # - icon: google
+    #   text: Google Scholar
+    #   href: https://scholar.google.com
 ---
 
 Hi! I am a Ph.D. student in Economics at Brown University.
