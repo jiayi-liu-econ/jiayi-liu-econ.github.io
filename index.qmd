@@ -4,9 +4,9 @@ about:
   template: jolla
   image: profile.jpg
   links:
-    # - icon: twitter
-    #   text: twitter
-    #   href: https://twitter.com
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com/jliumaggie
     - icon: github
       text: Github
       href: https://github.com/jiayi-liu-econ
@@ -18,8 +18,8 @@ about:
     #   href: https://scholar.google.com
 ---
 
-Hi! I am a Ph.D. student in Economics at Brown University.
+Hi! I am a first-year Ph.D. student in Economics at Brown University.
 
-My primary research interest is applied microeconomics, with a focus on topics in violence, healthcare, and media. My research is very topic-driven.
+My primary research interest lies at the intersection of applied microeconomics and behavioral economics, with a focus on topics in violence, healthcare, and media. My research is very topic-driven.
 
 Please feel free to get in touch!

@@ -6,19 +6,19 @@ about:
   links:
     - icon: twitter
       text: twitter
-      href: https://twitter.com
+      href: https://twitter.com/jliumaggie
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/jiayi-liu-econ
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
-    - icon: google
-      text: Google Scholar
-      href: https://scholar.google.com
+      href: www.linkedin.com/in/jiayi-liu-91066b18b
+    # - icon: google
+    #   text: Google Scholar
+    #   href: https://scholar.google.com
 ---
 
-My primary research interest is applied microeconomics, with a focus on topics in violence, healthcare, and media.
+My primary research interest lies at the intersection of applied microeconomics and behavioral economics, with a focus on topics in violence, healthcare, and media.
 
 ## Education
 
