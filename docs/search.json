@@ -1,24 +1,10 @@
 [
   {
-    "objectID": "research/project-1.html",
-    "href": "research/project-1.html",
-    "title": "Work in Progress",
-    "section": "",
-    "text": "I plan to work on a project about social media in China this summer."
-  },
-  {
-    "objectID": "research/index.html",
-    "href": "research/index.html",
-    "title": "Research",
-    "section": "",
-    "text": "To be updated…\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDoes Media Coverage of Violence Affect Public Trust? Evidence from Violence against Doctors in China\n\n\n\n\n\n\n\n\n\n\n\nMay 4, 2023\n\n\nJiayi Liu\n\n\n\n\n\n\n\n\n\n\n\n\nWork in Progress\n\n\n\n\n\n\n\n\n\n\n\nSep 9, 2022\n\n\nJiayi Liu\n\n\n\n\n\n\nNo matching items"
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "Jiayi Liu",
     "section": "",
-    "text": "My primary research interest lies at the intersection of applied microeconomics and behavioral economics, with a focus on topics in violence, healthcare, and media."
+    "text": "My primary research interest is applied microeconomics and applied theory, with a focus on topics in children and family, healthcare, and violence."
   },
   {
     "objectID": "about.html#education",
@@ -35,17 +21,17 @@
     "text": "Experience\nResearch Assistant (for Professor Daniel Polsky), Johns Hopkins University, Bloomberg School of Public Health, Jun. 2022 - Sep. 2022"
   },
   {
+    "objectID": "research/index.html",
+    "href": "research/index.html",
+    "title": "Research",
+    "section": "",
+    "text": "To be updated…\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJiayi Liu\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Jiayi Liu",
     "section": "",
-    "text": "Hi! I am a third-year Ph.D. student in Economics at Brown University.\nMy primary research interest lies at the intersection of applied microeconomics and behavioral economics, with a focus on topics in violence, healthcare, and media. My research is very topic-driven.\nPlease feel free to get in touch!"
-  },
-  {
-    "objectID": "research/paper-1.html",
-    "href": "research/paper-1.html",
-    "title": "Does Media Coverage of Violence Affect Public Trust? Evidence from Violence against Doctors in China",
-    "section": "",
-    "text": "This is my senior thesis. I identified the effect of media coverage of violent anti-doctor incidents on individuals’ trust in doctors by a staggered Difference-in-Differences strategy and examined the dynamic effects by an event-study design. I also explored a series of potential mechanisms through heterogeneity analysis."
+    "text": "Hi! I am a third-year Ph.D. student in Economics at Brown University.\nMy primary research interest is applied microeconomics and applied theory, with a focus on topics in children and family, healthcare, and violence.\nPlease feel free to get in touch!"
   }
 ]
