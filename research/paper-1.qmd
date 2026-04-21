@@ -1,10 +1,9 @@
 ---
-title: "Does Media Coverage of Violence Affect Public Trust? Evidence from Violence against Doctors in China"
+title: ""
 author: 
   - Jiayi Liu
-date: "May 4, 2023"
+date: ""
 ---
 
-This is my senior thesis. I identified the effect of media coverage of violent anti-doctor incidents on individuals’ trust in doctors by a staggered
-Difference-in-Differences strategy and examined the dynamic effects by an event-study design. I also explored a series of potential mechanisms through heterogeneity analysis.
+
 
